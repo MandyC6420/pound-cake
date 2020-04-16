@@ -1,0 +1,18 @@
+#End {
+        background-color: aquamarine;
+        border: 1px black;
+}
+#Intro {
+    background-color: blueviolet;
+    font-size: 1.85em;
+    line-height: 1.2em;
+}
+
+#Content {
+    background-color: lightyellow;
+    
+}
+
+#Ingredients {
+    background-color: mediumorchid;
+}
